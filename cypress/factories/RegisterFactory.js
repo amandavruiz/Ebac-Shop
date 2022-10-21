@@ -16,7 +16,8 @@ export default {
             address: {
                 postalcode: '04530001',
                 street: 'Rua Renato Paes de Barros 1017',
-                city_state: 'São Paulo'
+                city: 'São Paulo',
+                country: 'Brasil'
             }
         }
 

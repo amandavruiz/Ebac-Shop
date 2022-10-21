@@ -50,5 +50,18 @@ export default {
         }
 
         return data
+    },
+
+    product5: function () {
+
+        var data = {
+
+            product: '3745',
+            size: 'L',
+            color: 'Yellow',
+            name: 'Celeste Sports Bra'
+        }
+
+        return data
     }
 }
