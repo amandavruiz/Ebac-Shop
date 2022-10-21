@@ -1,0 +1,15 @@
+{
+  "name": "ebac-shop",
+  "version": "1.0.0",
+  "description": "Projeto de Automação Cypress Ebac Shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Amanda Rossi",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.10.0",
+    "faker": "^5.5.3"
+  }
+}
